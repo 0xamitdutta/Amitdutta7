@@ -7,7 +7,7 @@
 
 ### Hey there! 👋
 
-My name is Amit and I'm currently a Sophomore student pursing CSE.  I have a passion for learning and currently I'm working with Python frameworks like Flask and Django. I can occasionaly write sometimes to share my learning and experience with a particular technology that I've worked with. You can see one of them here [Medium](https://medium.com/@amitcooldutta279/a-beginners-guide-to-confusion-matrix-machine-learning-101-77280db06c4b) or [Dev.to](https://dev.to/_amitdutta7/a-beginner-s-guide-to-confusion-matrix-machine-learning-101-3m36). Don't forget to give some Claps or Love. 😛
+My name is Amit and I'm currently a Sophomore student pursing CSE.  I have a passion for learning and currently I'm working with Python frameworks like Flask and Django. I occasionaly write sometimes to share my learning and experience with a particular technology that I've worked with. You can see one of them here [Medium](https://medium.com/@amitcooldutta279/a-beginners-guide-to-confusion-matrix-machine-learning-101-77280db06c4b) or [Dev.to](https://dev.to/_amitdutta7/a-beginner-s-guide-to-confusion-matrix-machine-learning-101-3m36). Don't forget to give some Claps or Love. 😛
 
 ---
 
