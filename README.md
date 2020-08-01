@@ -16,3 +16,7 @@ My name is Amit and I'm pursuing my Bachelors in Computer Science and Engineerin
 - 💬 Ask me about the Web. (Helps even me to learn more)
 - 😄 Pronouns: Him/ His
 - ⚡ Fun fact: I've won some Basketball Tournaments 🏀
+
+---
+
+[![Amit's github stats](https://github-readme-stats.vercel.app/api?username=Amitdutta7&show_icons=true&theme=radical)](https://github.com/Amitdutta7/)
