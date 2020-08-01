@@ -1,4 +1,4 @@
-![](https://i.ytimg.com/vi/JdJCbumWHn8/maxresdefault.jpg)
+<img src="https://images.unsplash.com/photo-1552308995-2baac1ad5490?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" alt="Coding Setup">
 <p align="center">
   <a href="https://twitter.com/_Amitdutta7"><img height="30" src="https://image.flaticon.com/icons/png/512/124/124021.png"></a>
   <a href="https://www.instagram.com/amit__dutta/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png"></a>
