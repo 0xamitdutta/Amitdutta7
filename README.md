@@ -1,4 +1,8 @@
 <p align="center">
+    <a href="https://cristianmarint.github.io/DEPORCO/"><img src="https://imgur.com/nuQbn48.gif" width="100%" height="auto" ></a>
+</p>
+
+<p align="center">
   <a href="https://twitter.com/_Amitdutta7"><img height="30" src="https://image.flaticon.com/icons/png/512/124/124021.png"></a>
   <a href="https://www.instagram.com/amit__dutta/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png"></a>
   <a href="https://www.linkedin.com/in/amitdutta24/"><img height="30" src="https://eoss.asu.edu/sites/default/files/styles/panopoly_image_original/public/linkedin-logo-icon.png?itok=GF6EWlU_"></a>
