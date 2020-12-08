@@ -10,14 +10,14 @@
 
 ## Hey there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
-My name is Amit and I'm pursuing my Bachelors in Computer Science and Engineering. I have a passion for learning and currently I'm working with Python and one of its very popular framework "Flask" to strengthen my understanding in Backend Development. I occasionaly write to share my learning and experiences with a particular tech that I've worked with. You can see one of them here [Medium](https://medium.com/@amitcooldutta279/a-beginners-guide-to-confusion-matrix-machine-learning-101-77280db06c4b) or here [Dev.to](https://dev.to/_amitdutta7/a-beginner-s-guide-to-confusion-matrix-machine-learning-101-3m36). Don't forget to give some Claps or Love. 😛
+Hi, my name is Amit 🙍, a Full Stack Developer 🚀 from India. I'm pursuing my Bachelors in Computer Science and Engineering 💻. I have a passion for learning and currently I'm working with Python and one of its very popular framework "Flask" to strengthen my understanding in Backend Development. I occasionaly write to share my learning and experiences with a particular tech that I've worked with. Beside's programming, I love traveling and exploring different places ✈.
 
 ---
 
 - 🔭 I’m currently working on Backend Development
 - 🌱 I’m currently learning Flask 🌶
 - 💬 Ask me about the Web. (Helps even me to learn more)
-- 😄 Pronouns: Him/ His
+- 📫 How to reach me: [@_Amitdutta7](https://twitter.com/_Amitdutta7)
 - ⚡ Fun fact: I've won some Basketball Tournaments 🏀
 
 ---
