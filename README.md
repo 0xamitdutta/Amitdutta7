@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://cristianmarint.github.io/DEPORCO/"><img src="https://imgur.com/nuQbn48.gif" width="100%" height="auto" ></a>
+    <a href="https://twitter.com/_Amitdutta7"><img src="https://i.imgur.com/P6lG7pp.gif" width="100%" height="auto" ></a>
 </p>
 
 <p align="center">
