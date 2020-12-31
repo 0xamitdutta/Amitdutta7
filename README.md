@@ -8,8 +8,6 @@
   <a href="https://www.linkedin.com/in/amitdutta24/"><img height="30" src="https://eoss.asu.edu/sites/default/files/styles/panopoly_image_original/public/linkedin-logo-icon.png?itok=GF6EWlU_"></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Amitdutta7" alt="Amitdutta7" /> </p>
-
 ## Hey there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 Hi, my name is Amit 🙍, a Full Stack Developer 🚀 from India. Currently I'm pursuing my Bachelors in Computer Science and Engineering 💻. I have a passion for learning new things. Right now, I'm working with Python and one of its very popular framework "Flask". I occasionaly write to share my learning and experiences with a particular tech that I've worked with. Besides programming, I love travelling and exploring different places ✈.
