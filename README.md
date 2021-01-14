@@ -10,7 +10,7 @@
 
 ## Hey there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
-Hi, my name is Amit 🙍, a Full Stack Developer 🚀 from India. Currently I'm pursuing my Bachelors in Computer Science and Engineering 💻. I have a passion for learning new things. Right now, I'm working with Python and one of its very popular framework "Flask". I occasionaly write to share my learning and experiences with a particular tech that I've worked with. Besides programming, I love travelling and exploring different places ✈.
+Hi, my name is Amit 🙍 and I'm a Full Stack Developer 🚀. Currently I'm pursuing my Bachelors in Computer Science and Engineering 💻. I have a passion for learning new things. Right now, I'm working with Python and one of its very popular framework "Flask" along with some JavaScript Magic. Besides programming, I love sports 🏀, travelling and exploring different places ✈.
 
 ---
 
