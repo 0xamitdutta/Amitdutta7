@@ -10,12 +10,12 @@
 
 ## Hey there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
-Hi, my name is Amit 🙍 and I'm a Full Stack Developer 🚀. Currently I'm pursuing my Bachelors in Computer Science and Engineering 💻. I have a passion for learning new things. Right now, I'm working with Python and one of its very popular framework "Flask" along with some JavaScript Magic. Besides programming, I love sports 🏀, travelling and exploring different places ✈.
+Hi, my name is Amit 🙍 and I'm a Full Stack Developer 🚀. Currently I'm pursuing my Bachelors in Computer Science and Engineering 💻. I have a passion for learning new things. Right now, I'm working with JavaScript along with Node.js and Express.js with MongoDB and Mongoose. Besides programming, I love sports 🏀, travelling and exploring different places ✈.
 
 ---
 
 - 🔭 I’m currently working on Backend Development
-- 🌱 I’m currently learning Flask 🌶
+- 🌱 I’m currently learning JavaScript 🌶
 - 💬 Ask me about the Web. (Helps even me to learn more)
 - 📫 How to reach me: [@_Amitdutta7](https://twitter.com/_Amitdutta7)
 - ⚡ Fun fact: I've won some Basketball Tournaments 🏀
