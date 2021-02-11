@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/_Amitdutta7"><img height="30" src="https://image.flaticon.com/icons/png/512/124/124021.png"></a>
-  <a href="https://www.instagram.com/amit__dutta/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png"></a>
-  <a href="https://www.linkedin.com/in/amitdutta24/"><img height="30" src="https://eoss.asu.edu/sites/default/files/styles/panopoly_image_original/public/linkedin-logo-icon.png?itok=GF6EWlU_"></a>
+  <a href="https://twitter.com/_Amitdutta7"><img height="30" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-256.png"></a>
+  <a href="https://www.instagram.com/amit__dutta/"><img height="30" src="https://cdn4.iconfinder.com/data/icons/social-media-2070/140/_instagram-256.png"></a>
+  <a href="https://www.linkedin.com/in/amitdutta24/"><img height="30" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-256.png"></a>
 </p>
 
 ## Hey there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
