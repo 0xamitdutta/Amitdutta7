@@ -4,7 +4,7 @@
 
 ## Hey there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
-Hi, my name is Amit 🙍 and I'm a Full Stack Developer 🚀. Currently I'm pursuing my Bachelors in Computer Science and Engineering 💻. I have a passion for learning new things. Right now, I'm working with C++, Java and Python and I'm learning about Flask/Django. Besides programming, I love sports 🏀, travelling and exploring different places ✈.
+Hi, my name is Amit 🙍 and I'm a Backend/Blockchain Developer 🚀. Currently I'm pursuing my Bachelors in Computer Science and Engineering 💻. I have a passion for learning new things. Right now, I'm working with C++, Python, Solidity. Besides programming, I love sports 🏀, travelling and exploring different places ✈.
 
 ---
 
