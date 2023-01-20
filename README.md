@@ -4,14 +4,14 @@
 
 ## Hey there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
-Hi, my name is Amit 🙍 and I'm a Backend/Blockchain Developer 🚀. Currently I'm pursuing my Bachelors in Computer Science and Engineering 💻. I have a passion for learning new things. Right now, I'm working with C++, Python, Solidity. Besides programming, I love sports 🏀, travelling and exploring different places ✈.
+Hi, my name is Amit 🙍 and I'm a Fullstack/Blockchain Developer 🚀. Currently I'm working as a Strategic Cloud Engineer at Google 💻. I have a passion for learning new things. Right now, I'm working with C++, Solidity, JavaScript. Besides programming, I love sports 🏀, travelling and exploring different places ✈.
 
 ---
 
-- 🔭 I’m currently working on Backend Development
-- 🌱 I’m currently learning JavaScript 🌶
+- 🔭 I’m currently working on Blockchain Development
+- 🌱 I’m currently learning Web3 🌶
 - 💬 Ask me about the Web. (Helps even me to learn more)
-- 📫 How to reach me: [@_Amitdutta7](https://twitter.com/_Amitdutta7)
+- 📫 How to reach me: [@0xlucifer](https://twitter.com/0xlucifer)
 - ⚡ Fun fact: I've won some Basketball Tournaments 🏀
 
 ---
